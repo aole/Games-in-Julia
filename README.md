@@ -1,1 +1,3 @@
-# Games-in-Julia
+# Games in Julia
+
+## Minesweeper
