@@ -1,3 +1,4 @@
 # Games in Julia
 
-## Minesweeper
+## Minesweeper (console)
+## Solitair (console)

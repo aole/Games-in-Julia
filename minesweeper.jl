@@ -98,7 +98,7 @@ function process(row, col)
         opened[CartesianIndex(row, col)] = true
         global game_end = true
         display()
-        println("You loose!")
+        println("You lost!")
     else
         open(row, col)
     end
